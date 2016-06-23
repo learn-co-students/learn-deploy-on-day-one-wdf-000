@@ -1,3 +1,6 @@
+/*my pic http://imgur.com/NPyhfNT
+*/cover photo http://i.imgur.com/DGNLAzf.jpg /*
+
 /* GLOBAL STYLES
 ======================== */
 
@@ -161,6 +164,14 @@ a:visited {
 
 #diane-vu-card {
  background-image: url("https://learn-verified.s3.amazonaws.com/diane-vu.jpg");
+}
+
+#carolina-gonzalez-cover {
+  background-image: url("http://i.imgur.com/DGNLAzf.jpg");
+}
+
+#carolina-gonzalez-card {
+  background-image: url("http://i.imgur.com/NPyhfNT.jpg");
 }
 
 .view-profile-div {
