@@ -163,6 +163,14 @@ a:visited {
  background-image: url("https://learn-verified.s3.amazonaws.com/diane-vu.jpg");
 }
 
+#ozzie-popovas-cover {
+ background-image: url("http://i.imgur.com/5s1Kq8e.png");
+}
+
+#ozzie-popovas-card {
+ background-image: url("http://i.imgur.com/bqbMsFT.jpg");
+}
+
 .view-profile-div {
   position: absolute;
   bottom: 0;
