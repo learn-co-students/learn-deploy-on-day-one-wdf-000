@@ -1,3 +1,8 @@
+/*
+head:  http://imgur.com/PJW1BCn
+bkdp:  http://imgur.com/avZMPmu
+*/
+
 /* GLOBAL STYLES
 ======================== */
 
@@ -162,6 +167,16 @@ a:visited {
 #diane-vu-card {
  background-image: url("https://learn-verified.s3.amazonaws.com/diane-vu.jpg");
 }
+
+/********************/
+#derick-quartey-card {
+ background-image: url("http://i.imgur.com/PJW1BCn.jpg");
+}
+
+#derick-quartey-cover {
+ background-image: url("http://i.imgur.com/avZMPmu.jpg");
+}
+/********************/
 
 .view-profile-div {
   position: absolute;
