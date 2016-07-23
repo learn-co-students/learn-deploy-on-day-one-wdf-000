@@ -163,6 +163,14 @@ a:visited {
  background-image: url("https://learn-verified.s3.amazonaws.com/diane-vu.jpg");
 }
 
+#satu-barnhill-card {
+ background-image: url("http://i.imgur.com/gRJ9BqH.jpg");
+}
+
+#satu-barnhill-cover {
+ background-image: url("http://i.imgur.com/290tVar.jpg");
+}
+
 .view-profile-div {
   position: absolute;
   bottom: 0;
