@@ -163,6 +163,14 @@ a:visited {
  background-image: url("https://learn-verified.s3.amazonaws.com/diane-vu.jpg");
 }
 
+#parm-sahadeo-card{
+  background-image: url("http://i.imgur.com/KiBrQ2O.png?1")
+}
+
+#parm-sahadeo-cover{
+  background-image: url("http://i.imgur.com/8nFaxcX.jpg")
+}
+
 .view-profile-div {
   position: absolute;
   bottom: 0;
