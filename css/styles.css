@@ -162,6 +162,12 @@ a:visited {
 #diane-vu-card {
  background-image: url("https://learn-verified.s3.amazonaws.com/diane-vu.jpg");
 }
+#hafizur-rahman-cover {
+ background-image: url("http://i.imgur.com/wuGLJ54.jpg");
+}
+#hafizur-rahman-card {
+  background-image: url("http://i.imgur.com/YvLXY3u.png");
+}
 
 .view-profile-div {
   position: absolute;
